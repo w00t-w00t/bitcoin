@@ -4,6 +4,7 @@ object ArbitrageBitcoin {
 
   // L’arbitrage de crypto-monnaie consiste à acheter des crypto-monnaies sur une bourse et à les vendre sur une autre pour en tirer profit. L’objectif principal de la stratégie d’arbitrage est de gagner de l’argent en utilisant les différences de valeur des pièces cryptographiques entre deux échanges.
   //Il s’agit d’une approche simple du trading de crypto-monnaies par rapport à d’autres méthodes nécessitant une analyse technique. De plus, il s’agit de l’une des meilleures stratégies de trading pour les marchés des cryptomonnaies en raison de sa volatilité.
+  // https://www.youtube.com/watch?v=GDtT4UDFK2w
 
   // une opportunité d'arbitrage est présente lorsqu'il y a la possibilité d'acheter instantanément quelque chose à bas prix sur un marché et de le vendre à un prix plus élevé ailleurs :
   // - arbitrage entre échanges
