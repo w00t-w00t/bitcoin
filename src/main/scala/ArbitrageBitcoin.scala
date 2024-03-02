@@ -10,6 +10,21 @@ object ArbitrageBitcoin {
   // - arbitrage entre échanges
   // - arbitrage au sein d'une bourse unique
 
+  // Arbitrage spatial optimisé Bitcoin
+  //   https://www.youtube.com/watch?v=B450SDfdh0c
+  //  https://www.youtube.com/watch?v=GDtT4UDFK2w
+  // = pas de transfert de Crypto à réaliser
+  // = pas de frais de transfert de Crypto à payer
+  //
+  // Prérequis : avoir la crypto concerné déja en spot sur les deux exchanges
+  // Exemple :
+  //  - 100 dollars ETH sur Binance (get) et 100 dollars ETH sur CoinBase (x)
+  // si je constate un écart de prix significatif :
+  //  - 50 dollars ETH vendu sur Binance (la ou le prix sera le plus élevé)
+  //  - 50 dollars ETH acheté sur CoinBase (la ou le prix sera le plus bas)
+  // => ça m'aura permis de profiter de l'écart de prix en économisant sur les frais d'achat, frais de transactions, et frais de vente
+
+
   def main(args: Array[String]): Unit = {
 
     // major exchanges : Binance, CoinBase, Kraken, Gemini, Bitfinex, Bitstamp, Cex.io, Luno, Paxful, eToro, LocalBitcoins
