@@ -24,6 +24,7 @@ object ArbitrageBitcoin {
   //  - 50 dollars ETH acheté sur CoinBase (la ou le prix sera le plus bas)
   // => ça m'aura permis de profiter de l'écart de prix en économisant sur les frais d'achat, frais de transactions, et frais de vente
 
+  // https://crypto-robot.com/blog/trading-haute-frequence-arbitrage-cryptos-python
 
   def main(args: Array[String]): Unit = {
 
